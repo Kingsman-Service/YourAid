@@ -14,7 +14,7 @@ YourAid is a healthcare based android application consisting basic medical servi
 
 ## Key Features :
 
-• [Medicine routine reminder](https://github.com/Kingsman-Service/YourAid#medicine-routine-reminder) • [Disease diagnoser](https://github.com/Kingsman-Service/YourAid#disease-diagnoser) • [Chatbot](https://github.com/Kingsman-Service/YourAid#chatbot) • [Search & filter doctors](https://github.com/Kingsman-Service/YourAid#search--filter-doctors) • [Book appointment with doctors](https://github.com/Kingsman-Service/YourAid#search--filter-doctors) • [Book pathology tests](https://github.com/Kingsman-Service/YourAid#book-pathology-tests) • [Manage doctor's schedule](https://github.com/Kingsman-Service/YourAid#manage-doctors-schedule) • [Create EHR](https://github.com/Kingsman-Service/YourAid#create-patient-ehr) • [Encryption system](https://github.com/Kingsman-Service/YourAid#encryption)
+• [Medicine routine reminder](https://github.com/Kingsman-Service/YourAid#medicine-routine-reminder) • [Disease diagnoser](https://github.com/Kingsman-Service/YourAid#disease-diagnoser) • [Chatbot](https://github.com/Kingsman-Service/YourAid#chatbot) • [Search & filter doctors](https://github.com/Kingsman-Service/YourAid#search--filter-doctors) • [Book appointment with doctors](https://github.com/Kingsman-Service/YourAid#book-apointment-with-doctors) • [Book pathology tests](https://github.com/Kingsman-Service/YourAid#book-pathology-tests) • [Manage doctor's schedule](https://github.com/Kingsman-Service/YourAid#manage-doctors-schedule) • [Create EHR](https://github.com/Kingsman-Service/YourAid#create-patient-ehr) • [Encryption system](https://github.com/Kingsman-Service/YourAid#encryption)
 
 ## Medicine Routine Reminder
 
