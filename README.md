@@ -6,7 +6,8 @@ width="350"
      height="500">
 </p>
 
-YourAid is a healthcare based android application consisting basic medical services and some unique features such as medicine routine reminder, disease diagnoser, chatbot, etc. 
+YourAid is a healthcare based android application consisting basic medical services and some unique features such as medicine routine reminder, disease diagnoser, chatbot, etc. Here's a demonstration of some of the features:
+https://www.linkedin.com/posts/fareen-tasneem_android-keras-diseaseprediction-activity-6950117491494776832-ymH1?utm_source=share&utm_medium=member_desktop
 
 ## Technologies used:
 
