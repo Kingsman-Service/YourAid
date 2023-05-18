@@ -25,7 +25,7 @@ https://www.linkedin.com/posts/fareen-tasneem_android-keras-diseaseprediction-ac
 
 ## Search & Filter Doctors
 
-## Book Apointment with Doctors
+## Book Appointment with Doctors
 
 ## Book Pathology Tests
 
